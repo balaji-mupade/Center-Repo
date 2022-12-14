@@ -1,0 +1,4 @@
+echo"what is yo"
+read a 
+echo "hello,$a"
+
