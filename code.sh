@@ -1,5 +1,5 @@
-echo "what is your name "
+echo "what is your name? "
 read a     
-echo "hello,$a"
+echo "hello!,$a"
 
 
